@@ -81,5 +81,3 @@ Follow these setps 👇👇
 8. After all the setup you finished create the web service and It will deploy the project.
 
 You can deploy frontend into vercel or netlify also. Thanks
-
-`Build with 💛 by Hasan`
